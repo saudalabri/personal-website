@@ -1,0 +1,44 @@
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+    margin: 15px;
+    padding: 10px;
+    border: solid 2px;
+    background-color: darkblue;
+}
+nav ul li a {
+    color: white;
+}
+nav ul .active {
+    background-color: black;
+}
+.welcome-heading {
+    text-align: center;
+    margin-top: 25%;
+}
+.welcome-sentence {
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+.social-links {
+    text-align: center;
+}
+.social-links li {
+    display: inline;
+    margin: 15px;
+}
+.my-picture {
+    width: 340px;
+    height: 440px
+}
+.button {
+    padding: 15px;
+    background-color: blue;
+    color: white;
+}
+#sentMessage {
+    color: green;
+}
